@@ -964,7 +964,7 @@ function Inicio() {
 }
 
 function confirmaciones() {
-    window.open("https://docs.google.com/spreadsheets/d/1_ORPXaMBLU5hieEBDaVCQ6Lezy2WnWDc6VZ4YBeFtYY/edit?usp=drive_link", "_self");        
+    window.open("https://docs.google.com/spreadsheets/d/1iCliy7ICr6I7GT_iimZZDBwdzByM84xdddYELjpxxWE/edit?usp=drive_link", "_self");        
 }
 
 
